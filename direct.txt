@@ -1,0 +1,10 @@
+domain:ymj0424.com
+domain:fee.jijifun.com
+domain:shuttle.mobi
+domain:gtrn.xyz
+domain:freeplesk.com
+domain:manhuagui.com
+domain:hamreus.com
+catdns.0.2x-hk.mydns.ltd
+regexp:.+-vip-lixian.mypikpak.com
+full:rtx.1660.super.freeplesk.com

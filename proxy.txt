@@ -1,1 +1,5 @@
 supertop.co
+full:share.dmhy.org
+domain:copymanga.com
+domain:forzamotorsport.net
+regexp:.+-aliyun17-vip-lixian.mypikpak.com
